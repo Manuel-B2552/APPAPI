@@ -1,2 +1,0 @@
-# APPAPI
-Entrega proyecto temperatura
